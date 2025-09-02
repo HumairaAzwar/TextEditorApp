@@ -26,9 +26,7 @@ Configurable syntax highlighting for other languages (Java, Python, etc.).
 
 🛠️ Tech Stack
 
-Language: Kotlin (Android)
-
-Architecture: Android XML UI with AppCompatActivity
+Language: Kotlin
 
 Compiler Integration: ADB-based execution
 
